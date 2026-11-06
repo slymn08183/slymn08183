@@ -31,7 +31,7 @@
 | **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=react,nextjs,vite" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,firebase,sequelize" /> |
 | **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git,gcp,aws,cloudflare" /> |
-| **AI Tooling** | <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" /> <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> |
+| **AI Tooling** | <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> |
 
 ### GitHub
 
